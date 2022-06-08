@@ -1,2 +1,2 @@
-# Desafio-Github-Dio
-Desafio de projeto Git/Github TQI Fullstack Developer módulo I
+# Desafio-Github-TQI-Dio
+Repositório do desafio de projeto Git/Github TQI Fullstack Developer módulo I
